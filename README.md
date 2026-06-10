@@ -2,7 +2,7 @@
 
 A Content-Driven Movie Recommendation System for Nepali Cinema built as a Major Project at Everest Engineering College.
 
- Team Members
+Team Members
  Ashish Khatri [22120112]
  Bibhusan GC [22120115]
  Dip Prajwal Pandey [22120120]
