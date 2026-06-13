@@ -11,6 +11,7 @@ Everest Engineering College.
 - Diwakar Yadav [22120122]
 
  About
+ 
 This system recommends similar Nepali movies 
 based on content features like genre and plot 
 using Word2Vec and KNN algorithm.
